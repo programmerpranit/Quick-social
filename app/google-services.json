@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494398589056",
+    "project_id": "quick-social-55e65",
+    "storage_bucket": "quick-social-55e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494398589056:android:a3ec5b5006ed6b07a4fe65",
+        "android_client_info": {
+          "package_name": "com.example.quicksocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494398589056-v7qb8d8pc616t84ljb3ish6f154i5784.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswkXv0OD1v9CAgk5K670RAq-Q72v8yoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494398589056-v7qb8d8pc616t84ljb3ish6f154i5784.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
